@@ -6,9 +6,11 @@ and open the template in the editor.
 /* 
     Created on : 06/10/2016, 19:37:10
     Author     : valer
+
+  new_style branch
 */
 
-body{border: 1px black solid;}
+body{border: 1px red solid;}
 
 h1{/* master new style */}
 
